@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Raven0520/Golang/Scaffold/model"
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"github.com/Raven0520/Gin-Scaffold/model"
+	"github.com/Raven0520/Gin-Scaffold/util"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"github.com/influxdata/influxdb-client-go/v2/api"
 )

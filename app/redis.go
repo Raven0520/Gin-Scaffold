@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Raven0520/Golang/Scaffold/model"
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"github.com/Raven0520/Gin-Scaffold/model"
+	"github.com/Raven0520/Gin-Scaffold/util"
 	"github.com/gomodule/redigo/redis"
 )
 

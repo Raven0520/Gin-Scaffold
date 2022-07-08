@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"github.com/Raven0520/Gin-Scaffold/util"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

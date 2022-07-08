@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Raven0520/Golang/Scaffold/crontab"
-	"github.com/Raven0520/Golang/Scaffold/model"
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"github.com/Raven0520/Gin-Scaffold/crontab"
+	"github.com/Raven0520/Gin-Scaffold/model"
+	"github.com/Raven0520/Gin-Scaffold/util"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

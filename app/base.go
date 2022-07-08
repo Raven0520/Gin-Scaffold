@@ -1,6 +1,6 @@
 package app
 
-import "github.com/Raven0520/Golang/Scaffold/util"
+import "github.com/Raven0520/Gin-Scaffold/util"
 
 // BaseConf 全局变量
 var BaseConf *BaseConfig

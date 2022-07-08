@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"github.com/Raven0520/Gin-Scaffold/util"
 	"github.com/spf13/viper"
 )
 
