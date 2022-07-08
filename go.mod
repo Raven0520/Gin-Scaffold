@@ -1,4 +1,4 @@
-module github.com/Raven0520/Golang/Scaffold
+module gitlab.f-fans.cn/components/golang/scaffold
 
 go 1.18
 

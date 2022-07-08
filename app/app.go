@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Raven0520/Golang/Scaffold/util"
+	"gitlab.f-fans.cn/components/golang/scaffold/util"
 )
 
 var TimeLocation *time.Location // 时区

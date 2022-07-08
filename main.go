@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/Raven0520/Golang/Scaffold/app"
+	"gitlab.f-fans.cn/components/golang/scaffold/app"
 )
 
 /* 示例代码 */
