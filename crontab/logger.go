@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/Raven0520/Golang/Scaffold/model"
+	"github.com/Raven0520/Golang/Scaffold/util"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"github.com/influxdata/influxdb-client-go/v2/api"
-	"gitlab.f-fans.cn/components/golang/scaffold/model"
-	"gitlab.f-fans.cn/components/golang/scaffold/util"
 )
 
 var (

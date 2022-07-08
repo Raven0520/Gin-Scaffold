@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/Raven0520/Golang/Scaffold/model"
+	"github.com/Raven0520/Golang/Scaffold/util"
 	"github.com/gomodule/redigo/redis"
-	"gitlab.f-fans.cn/components/golang/scaffold/model"
-	"gitlab.f-fans.cn/components/golang/scaffold/util"
 )
 
 // ConfigRedisMap 全局变量

@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/Raven0520/Golang/Scaffold/util"
 	"github.com/spf13/viper"
-	"gitlab.f-fans.cn/components/golang/scaffold/util"
 )
 
 // InitViperConfig 初始化配置文件
