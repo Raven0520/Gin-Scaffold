@@ -11,5 +11,6 @@ func main() {
 	if err := app.InitModule("./conf/dev/", []string{"base", "swagger", "postgres", "redis"}); err != nil {
 		log.Fatal(err)
 	}
+
 	defer app.Destroy()
 }
