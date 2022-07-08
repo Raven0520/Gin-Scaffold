@@ -3,7 +3,7 @@ module github.com/Raven0520/Golang/Scaffold
 go 1.18
 
 require (
-	github.com/gomodule/redigo v1.8.8
+	github.com/gomodule/redigo v1.8.9
 	github.com/influxdata/influxdb-client-go/v2 v2.9.0
 	github.com/spf13/viper v1.9.0
 	gorm.io/driver/mysql v1.3.3
